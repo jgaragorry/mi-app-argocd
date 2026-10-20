@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: mi-app-extra
-data:
-  novedad: "creado en el experimento 2"
-  timestamp: "2026-10-20"
